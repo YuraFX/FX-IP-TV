@@ -1,0 +1,55 @@
+﻿1) Первый канал: http://188.191.160.238:9099/channel/1_Kanal.ts
+2) Россия-1: http://188.191.160.238:9099/channel/Rossiya.ts
+3) Матч ТВ: http://78.25.155.47:1309/channel/Match.ts
+4) НТВ: http://188.191.160.238:9099/channel/NTV.ts
+5) Пятый канал: http://188.191.160.238:9099/channel/5_Kanal.ts
+6) Россия-Культура: http://78.25.155.47:1309/channel/Ros_K.ts
+7) Россия-24: http://78.25.155.47:1309/channel/Ros_24.ts
+8) Карусель: http://78.25.155.47:1309/channel/Karusel.ts
+9) Мульт: http://78.25.155.47:1309/channel/Mult.ts
+10) ОТР: http://188.191.160.238:9099/channel/OTR.ts
+11) ТВ-Центр: http://78.25.155.47:1309/channel/TVC.ts
+12) РЕН-ТВ: http://78.25.155.47:1309/channel/REN.ts
+13) Спас: http://78.25.155.47:1309/channel/Spas.ts
+14) СТС: http://188.191.160.238:9099/channel/STS.ts
+15) Домашний: http://188.191.160.238:9099/channel/Domashniy.ts
+16) ТВ-3: http://78.25.155.47:1309/channel/TV3.ts
+17) Пятница!: http://78.25.155.47:1309/channel/Piatnica.ts
+18) Звезда: http://78.25.155.47:1309/channel/Zvezda.ts
+19) Мир: http://78.25.155.47:1309/channel/MIR.ts
+20) ТНТ: http://188.191.160.238:9099/channel/TNT.ts
+21) ЧЕ: http://78.25.155.47:1309/channel/Che.ts
+22) Nat Geo Wild: http://78.25.155.47:1309/channel/Nat_geo_w.ts
+23) Телеканал Драйв: http://78.25.155.47:1309/channel/Drive.ts
+24) Дом кино: http://78.25.155.47:1309/channel/DOM_kino.ts
+25) Киномикс: http://78.25.155.47:1309/channel/Kino_plus.ts
+26) Киносерия: http://78.25.155.47:1309/channel/Mnogoser.ts
+27) Родное кино: http://78.25.155.47:1309/channel/Nashe_kino.ts
+28) Наше Новое Кино: http://78.25.155.47:1309/channel/Kinohit.ts
+29) Русский Иллюзион: http://78.25.155.47:1309/channel/Rus_illuz.ts
+30) Телеканал Время: http://78.25.155.47:1309/channel/Vremia.ts
+31) Ретро: http://78.25.155.47:1309/channel/Retro.ts
+32) Телеканал 360: http://78.25.155.47:1309/channel/360.ts
+33) Телеканал Fox: http://78.25.155.47:1309/channel/FOX.ts
+34) Охота и рыбалка: http://78.25.155.47:1309/channel/Ohota_i_rib.ts
+35) Zooпарк: http://78.25.155.47:1309/channel/zoo.ts
+36) RU.TV: http://188.191.160.238:9099/channel/RU_TV.ts
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
